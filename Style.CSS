@@ -1,0 +1,79 @@
+.img{
+    width: 540px;
+    height: 540px;
+    border-radius: 20px;
+}
+.produto{ 
+    border-radius: 20px;
+    background-color: white;
+    margin: 50px 20px 50px 250px
+}
+
+.fundo{
+    background-color:antiquewhite;
+    margin: 450px 50px 550px 0;
+}
+
+.interface{
+    padding: 1px 0px 0px 62px; 
+}
+
+.txt{
+    font-style:oblique;
+    color:grey;
+    font-size:x-large;
+    font-family: Georgia;
+}
+
+.textin{
+    font-family: Impact;
+    font-size: xx-large;
+    margin: 0 0;
+}
+.textin1{
+    font-family: Impact;
+    font-size: xx-large;
+    margin: 0 0;
+}
+.textin2{
+    font-family: Impact;
+    font-size: xx-large;
+    margin: 0 0;
+}
+
+.dscr{
+color: grey;
+margin: 25px 0 0 0;
+}
+.dscr1{
+color: grey;
+margin: 0 0;
+}
+.dscr2{
+color: grey;
+margin: 0 0;
+}
+.dscr3{
+color: grey;
+margin: 0 0;
+ }
+
+
+
+.preco {
+    font-size: xx-large;
+    color: green;
+    
+}
+.preco2{
+    color: grey;
+    font-size: small;
+}
+
+.adccarro{
+    border-radius: 20px;
+    color: white;
+    background-color: green;
+    width: 278px;
+    height: 113px;
+}
